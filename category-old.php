@@ -4,7 +4,7 @@
 </head>
 <body>
 <?php
- echo '<b>'.'Hello Category Page'.'</b>'
+ echo '<b>'.'Hello Home Page'.'</b>'
 ?>
 
 </body>
