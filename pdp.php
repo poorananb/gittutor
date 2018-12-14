@@ -4,7 +4,7 @@
 </head>
 <body>
 <?php
- echo '<b>'.'Hello Wrong Page'.'</b>'
+ echo '<b>'.'Hello PDP Page'.'</b>'
 ?>
 
 </body>
