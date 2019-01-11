@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> This is PDP Page </title>
+<title> This is Updated PDP Page </title>
 </head>
 <body>
 <?php
