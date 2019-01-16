@@ -5,12 +5,13 @@
 <body>
 <?php
  echo '<h1>'.'Hello Home Page'.'</h1>'
- echo '<b>'.'List of Pages'.'</b>'
+ echo '<h2>'.'List of Pages'.'</h2>'
 ?>
  <ul>
    <li> Home Page </li>
    <li> Category Page </li>
    <li> PDP Page </li>
+   <li> Quick Look Page </li>
  </ul>
  
 
