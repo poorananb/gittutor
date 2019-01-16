@@ -4,7 +4,8 @@
 </head>
 <body>
 <?php
- echo '<b>'.'Hello Home Page'.'</b>'
+ echo '<h1>'.'Hello Home Page'.'</h1>'
+ echo '<b>'.'List of Pages'.'</b>'
 ?>
  <ul>
    <li> Home Page </li>
